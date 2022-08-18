@@ -1,4 +1,4 @@
-const url = "./samples.json";
+const url = "./data/samples.json";
 
 // Use d3 to load the data and select the test subject for the dropdown list. Structure take from--> https://www.geeksforgeeks.org/d3-js-selection-enter-function/
 d3.json(url).then(function(data) {
