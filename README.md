@@ -6,4 +6,6 @@ The purpose and motivation of this project was to use javasript and html to prod
 
 ## Usage
 
-Please visit the [Bellybutton Biodiversity](https://www.example.com) web page to see the visuals. 
+Please visit the [Bellybutton Biodiversity](https://truthprice.github.io/interactive-web) web page to see the visuals.
+
+Select a test subject from the dropdown menu to view the data for that person. 
